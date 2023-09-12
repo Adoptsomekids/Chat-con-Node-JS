@@ -35,10 +35,13 @@ _Chat interactivo con varios clientes en tiempo real_
 
 ### Pruebas de estilo de codificación ⌨️
 
-_Modificación de estilos CSS, Bootstrap y fuentes_
+_Uso de socket.io para comunicacion en tiempo real en el servidor_
 
-![image](https://github.com/Adoptsomekids/Cinema-streaming-app/assets/83385717/e4191271-879e-4d38-9280-5864402e648d)
+![image](https://github.com/Adoptsomekids/Chat-con-Node-JS/assets/83385717/e5ff493a-1c3d-40e0-881c-45cb14095871)
 
+_Modificación de estilos CSS, fuentes de chat, etc_
+
+![image](https://github.com/Adoptsomekids/Chat-con-Node-JS/assets/83385717/5189bd64-91c7-44ea-a67c-27d6fc908a0f)
 
 ## Construido con 🛠️
 
