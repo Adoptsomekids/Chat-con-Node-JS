@@ -39,6 +39,10 @@ _Uso de socket.io para comunicacion en tiempo real en el servidor_
 
 ![image](https://github.com/Adoptsomekids/Chat-con-Node-JS/assets/83385717/e5ff493a-1c3d-40e0-881c-45cb14095871)
 
+_Set de puerto para servidor_
+
+![image](https://github.com/Adoptsomekids/Chat-con-Node-JS/assets/83385717/9f7f1e90-1134-4415-a51e-41de222e0446)
+
 _Modificación de estilos CSS, fuentes de chat, etc_
 
 ![image](https://github.com/Adoptsomekids/Chat-con-Node-JS/assets/83385717/5189bd64-91c7-44ea-a67c-27d6fc908a0f)
